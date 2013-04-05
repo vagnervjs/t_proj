@@ -1,0 +1,9 @@
+{
+	"name": "t_proj",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "~3.0.0",
+		"jade": ">= 0.0.1",
+		"mongoose": ">= 2.6.5"
+	}
+}
